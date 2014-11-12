@@ -1,0 +1,1 @@
+forfiles -p "G:\temp" -s -m *.* /D -10 /C "cmd /c del @path"
