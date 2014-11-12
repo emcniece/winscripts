@@ -3,7 +3,9 @@ winscripts
 
 A small package of Windows batch scripts for everyday use
 
-=== tempclean ===
+tempclean
+---------
+
 Empties old contents of a given folder. Things to edit:
  - "G:\temp" - directory to empty out
  - -10 - remove files older than 10 days
